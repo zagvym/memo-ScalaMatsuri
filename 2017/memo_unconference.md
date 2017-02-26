@@ -3,7 +3,7 @@
 2017/02/26
 
 - [ ] Finagle
-- [x] Dotty
+- [ ] Dotty
     - contributing dotty
 - [ ] Akka-docker
     - 知見共有
@@ -13,7 +13,7 @@
 - [ ] implicit params and type parameter in Haskell
 - [ ] 採用相談、採用担当座談会
 - [ ] 英会話教室
-- [x] Spark/Deep learning による侵入検知
+- [ ] Spark/Deep learning による侵入検知
 - [ ] Scala入門
 - [ ] かとじゅんさんを囲む会
 - [ ] SBT/AWS-EMR-Spark, OSS plugin
